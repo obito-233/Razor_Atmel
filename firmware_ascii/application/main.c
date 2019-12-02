@@ -104,7 +104,7 @@ void main(void)
     UserApp1RunActiveState();
     UserApp2RunActiveState();
     UserApp3RunActiveState();
-    
+    TEST
     /* System sleep*/
     HEARTBEAT_OFF();
     SystemSleep();
